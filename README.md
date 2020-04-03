@@ -1,2 +1,2 @@
-# NGS-pipline
-WES/NGS/scRNA-seq/scATAC-seq
+# NGS-analysis-pipline
+In this repos, We will include the pipeline of WES/RNAseq/scRNA-seq/scATAC-seq/Spatial-RNA
